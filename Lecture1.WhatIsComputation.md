@@ -110,11 +110,11 @@
 ### Type conversions (cast)
 - can convert object of one type to another
 - float(3) converts integer 3 to float 3.0
-- int(*
+- int(3.9) truncates float 3.9 to integer 3
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5OTc3NDEwNSw2MzMwMTczNjcsLTE4Nj
-M2NTc1MTQsNDY5NTY1MjAsLTMxNzcyODY4NCw3MzA5OTgxMTZd
-fQ==
+eyJoaXN0b3J5IjpbLTEwNTEyMjMxOTEsNjMzMDE3MzY3LC0xOD
+YzNjU3NTE0LDQ2OTU2NTIwLC0zMTc3Mjg2ODQsNzMwOTk4MTE2
+XX0=
 -->
