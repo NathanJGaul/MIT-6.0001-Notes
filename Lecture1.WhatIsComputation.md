@@ -70,10 +70,15 @@
 - a programming language provides a set of primitive operations
 - expressions are complex by legal combinations of primitives in a programming language
 - expressions and computations have values and meanings in a programming language
-- 
+
+### Aspects of languages
+- primitive constructs
+	- numbers, strings, simple operators, etc.
+- syntax
+	- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDc5Nyw0Njk1NjUyMCwtMzE3NzI4Nj
-g0LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbODIxODgzMDEsNDY5NTY1MjAsLTMxNzcyOD
+Y4NCw3MzA5OTgxMTZdfQ==
 -->
