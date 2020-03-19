@@ -90,10 +90,16 @@
 - commands (statements) instruct interpreter to do something
 - can be types directly in a shell or stored in a file that is read into the shell and evaluated
 	- Problem Set 0 will introduce you to these in Anaconda
-	- 
+
+## Objects
+- programs manipulate data objects
+- objects have a type that defines the kind of things programs can do to them
+	- Ana is a human so she can walk, speak English, etc.
+	- Chewbacca is a wookie so he can walk,
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMzMDE3MzY3LC0xODYzNjU3NTE0LDQ2OT
-U2NTIwLC0zMTc3Mjg2ODQsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTIyMzEyMjEyLDYzMzAxNzM2NywtMTg2Mz
+Y1NzUxNCw0Njk1NjUyMCwtMzE3NzI4Njg0LDczMDk5ODExNl19
+
 -->
