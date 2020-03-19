@@ -75,10 +75,14 @@
 - primitive constructs
 	- numbers, strings, simple operators, etc.
 - syntax
-	- 
+	- "hi"5 -> is not a valid phrase
+	- 45 * 5 -> is a valid phrase
+- static semantics is which syntactically valid string have meaning
+	- 3.2*5 -> syntactically valid
+	- 3+"hi" 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIxODgzMDEsNDY5NTY1MjAsLTMxNzcyOD
-Y4NCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTU4MjMxODUxNCw0Njk1NjUyMCwtMzE3Nz
+I4Njg0LDczMDk5ODExNl19
 -->
