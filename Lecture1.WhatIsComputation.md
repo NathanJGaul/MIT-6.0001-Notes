@@ -80,11 +80,12 @@
 - static semantics is which syntactically valid string have meaning
 	- 3.2*5 -> syntactically valid
 	- 3+"hi" -> static semantic error
-- semantics is the meaning associated with a syntatically correct string of symbols with no static semantic errors
--  
+- semantics is the meaning associated with a syntactically correct string of symbols with no static semantic errors
+	- have only one meaning but may not be what programmer 
+	- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NTE1MDk3Myw0Njk1NjUyMCwtMzE3Nz
-I4Njg0LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTE4NjM2NTc1MTQsNDY5NTY1MjAsLTMxNz
+cyODY4NCw3MzA5OTgxMTZdfQ==
 -->
