@@ -134,11 +134,14 @@
     radius = 5
     area = pi * radius ** 2
 
-
+## Changing bindings
+- can re-bind variable names using new assignment statements
+- previous value my still stored in memory by lost the handle for is
+- value for area does not change until you tell the computer to do the calculation
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MTM0NTY4Miw2MzMwMTczNjcsLTE4Nj
+eyJoaXN0b3J5IjpbLTEzNzgyMTAxOSw2MzMwMTczNjcsLTE4Nj
 M2NTc1MTQsNDY5NTY1MjAsLTMxNzcyODY4NCw3MzA5OTgxMTZd
 fQ==
 -->
