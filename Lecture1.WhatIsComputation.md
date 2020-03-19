@@ -87,10 +87,13 @@
 - a program is a sequence of definitions and commands
 	- definitions evaluated
 	- commands executed by Python interpreter in a shell
-- co
+- commands (statements) instruct interpreter to do something
+- can be types directly in a shell or stored in a file that is read into the shell and evaluated
+	- Problem Set 0 will introduce you to these in Anaconda
+	- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjQyODUyMTYsLTE4NjM2NTc1MTQsND
-Y5NTY1MjAsLTMxNzcyODY4NCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNjMzMDE3MzY3LC0xODYzNjU3NTE0LDQ2OT
+U2NTIwLC0zMTc3Mjg2ODQsNzMwOTk4MTE2XX0=
 -->
