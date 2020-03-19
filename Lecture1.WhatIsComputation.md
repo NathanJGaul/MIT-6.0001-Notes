@@ -113,11 +113,21 @@
 - int(3.9) truncates float 3.9 to integer 3
 
 ## Expressions
-- combine objects and operators to form expressi
+- combine objects and operators to form expressions
+- an expression has a value, which has a type
+- syntax for a simple expression
+	- \<object> \<expression> \<object>
+
+### Operators on ints and floats
+- i + j
+- i - j
+- i * j
+- i / j
+- i %T
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDI5NTM2ODIsNjMzMDE3MzY3LC0xOD
+eyJoaXN0b3J5IjpbLTEwNDUwMTIwNTQsNjMzMDE3MzY3LC0xOD
 YzNjU3NTE0LDQ2OTU2NTIwLC0zMTc3Mjg2ODQsNzMwOTk4MTE2
 XX0=
 -->
