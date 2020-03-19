@@ -128,10 +128,17 @@
 
 ## Saving values (assignment)
 - \<variable> = \<value or expression>
+- reuse names instead of values
+- easier to change code later
+
+    pi = 3.14
+    radius = 5
+    area = pi * radius ** 2
+    
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzUzNDYxOTksNjMzMDE3MzY3LC0xOD
+eyJoaXN0b3J5IjpbLTE2ODczMzIxNzgsNjMzMDE3MzY3LC0xOD
 YzNjU3NTE0LDQ2OTU2NTIwLC0zMTc3Mjg2ODQsNzMwOTk4MTE2
 XX0=
 -->
