@@ -22,10 +22,13 @@
 - imperative knowledge is the recipe or "how to"
 
 ## An Example
-- declarative: squa
+- declarative: square root of a number x is y such that y*y = x
+- imperative: recipe for deducing square root of a number x
+	1. Start with a guess, g
+	2. If g*g is close enough 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNzA3MzE0MSw0Njk1NjUyMCwtMzE3Nz
+eyJoaXN0b3J5IjpbMTU3ODYzNDA3OSw0Njk1NjUyMCwtMzE3Nz
 I4Njg0LDczMDk5ODExNl19
 -->
