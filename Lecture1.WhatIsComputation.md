@@ -62,12 +62,14 @@
 
 ### Basic primitives
 - Turing showed that you can compute anything using 6 primitives
-- modern programming languages have more convenient set of primatives
-- can abstract methods to create new primatives
-- anything computable in one language 
+- modern programming languages have more convenient set of primitives
+- can abstract methods to create new primitives
+- anything computable in one language is computable in any other language
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc1NDI2Nzg2LDQ2OTU2NTIwLC0zMTc3Mj
+eyJoaXN0b3J5IjpbNzM3ODgwMzY1LDQ2OTU2NTIwLC0zMTc3Mj
 g2ODQsNzMwOTk4MTE2XX0=
 -->
