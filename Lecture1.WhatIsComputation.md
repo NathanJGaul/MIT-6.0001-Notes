@@ -20,10 +20,12 @@
 ## Types of knowledge
 - declarative knowledge is a statement of fact
 - imperative knowledge is the recipe or "how to"
-- 
+
+## An Example
+- declarative: squa
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY5NTY1MjAsLTMxNzcyODY4NCw3MzA5OT
-gxMTZdfQ==
+eyJoaXN0b3J5IjpbLTUzNzA3MzE0MSw0Njk1NjUyMCwtMzE3Nz
+I4Njg0LDczMDk5ODExNl19
 -->
