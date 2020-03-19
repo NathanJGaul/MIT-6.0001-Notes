@@ -13,11 +13,15 @@
 	- performs calculations
 	- remember (store) results
 - What kinds of calculations
-	- built-in to the launguage
+	- built-in to the language
 	- programmer defined calculations
-- Computers 
+- Computers only do what you tell them to do
+
+## Types of knowledge
+- declarative knowledge is a statement of fact
+- imperative knowledge
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMTY2MzgxLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTMxNzcyODY4NCw3MzA5OTgxMTZdfQ==
 -->
