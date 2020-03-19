@@ -40,10 +40,11 @@
 	- calculator
 - stored program computer
 	- machine stores and executes instructions
-	- 
+
+### Basic machine ar
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDY5MDU5NDQsNDY5NTY1MjAsLTMxNz
-cyODY4NCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTU3Mzk4ODQwLDQ2OTU2NTIwLC0zMTc3Mj
+g2ODQsNzMwOTk4MTE2XX0=
 -->
