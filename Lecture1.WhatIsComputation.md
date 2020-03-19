@@ -95,11 +95,15 @@
 - programs manipulate data objects
 - objects have a type that defines the kind of things programs can do to them
 	- Ana is a human so she can walk, speak English, etc.
-	- Chewbacca is a wookie so he can walk,
+	- Chewbacca is a wookie so he can walk, "mwaaarhrhh", etc.
+- objects are
+	- scalar (cannot be subdivided)
+	- non-scalar (have internal structure that can be accessed
+	- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMzEyMjEyLDYzMzAxNzM2NywtMTg2Mz
-Y1NzUxNCw0Njk1NjUyMCwtMzE3NzI4Njg0LDczMDk5ODExNl19
-
+eyJoaXN0b3J5IjpbMTE3NDgyNTc1MCw2MzMwMTczNjcsLTE4Nj
+M2NTc1MTQsNDY5NTY1MjAsLTMxNzcyODY4NCw3MzA5OTgxMTZd
+fQ==
 -->
