@@ -21,14 +21,18 @@
 - declarative knowledge is a statement of fact
 - imperative knowledge is the recipe or "how to"
 
-## An Example
+### An Example
 - declarative: square root of a number x is y such that y*y = x
 - imperative: recipe for deducing square root of a number x
 	1. Start with a guess, g
-	2. If g*g is close enough 
+	2. If g*g is close enough to x, stop and say g is the answer
+	3. Otherwise make a new guess by averaging g and x/g
+	4. Using the new guess, repeat process until close enough
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3ODYzNDA3OSw0Njk1NjUyMCwtMzE3Nz
+eyJoaXN0b3J5IjpbMTI1NjM0MzI1MSw0Njk1NjUyMCwtMzE3Nz
 I4Njg0LDczMDk5ODExNl19
 -->
