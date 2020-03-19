@@ -118,7 +118,7 @@
 - syntax for a simple expression
 	- \<object> \<expression> \<object>
 
-### Operators on ints and floats
+## Operators on ints and floats
 - i + j
 - i - j
 - i * j
@@ -126,9 +126,12 @@
 - i % j - remainder
 - i ** j - power
 
+## Saving values (assignment)
+- \<variable> = \<value or expression>
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzUxNTgxMjIsNjMzMDE3MzY3LC0xOD
+eyJoaXN0b3J5IjpbLTIxMzUzNDYxOTksNjMzMDE3MzY3LC0xOD
 YzNjU3NTE0LDQ2OTU2NTIwLC0zMTc3Mjg2ODQsNzMwOTk4MTE2
 XX0=
 -->
