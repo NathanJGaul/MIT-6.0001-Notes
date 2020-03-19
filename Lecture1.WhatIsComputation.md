@@ -99,11 +99,17 @@
 - objects are
 	- scalar (cannot be subdivided)
 	- non-scalar (have internal structure that can be accessed
-	- 
+
+### Salar objects
+- int
+- float
+- bool - represents Boolean values T
+- NoneType - special has one value, None
+- can use type()
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NDgyNTc1MCw2MzMwMTczNjcsLTE4Nj
-M2NTc1MTQsNDY5NTY1MjAsLTMxNzcyODY4NCw3MzA5OTgxMTZd
-fQ==
+eyJoaXN0b3J5IjpbMTM3ODI2NjkyLDYzMzAxNzM2NywtMTg2Mz
+Y1NzUxNCw0Njk1NjUyMCwtMzE3NzI4Njg0LDczMDk5ODExNl19
+
 -->
