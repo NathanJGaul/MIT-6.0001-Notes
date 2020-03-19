@@ -66,10 +66,14 @@
 - can abstract methods to create new primitives
 - anything computable in one language is computable in any other language
 
-
+## Creating recipes
+- a programming language provides a set of primitive operations
+- expressions are complex by legal combinations of primitives in a programming language
+- expressions and computations have values and meanings in a programming language
+- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM3ODgwMzY1LDQ2OTU2NTIwLC0zMTc3Mj
-g2ODQsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEyNDc5Nyw0Njk1NjUyMCwtMzE3NzI4Nj
+g0LDczMDk5ODExNl19
 -->
