@@ -43,15 +43,19 @@
 
 ### Basic machine architecture
 - memory
-	- stores data
+	- stores data to be operated on
 - arithmetic logic unit (alu)
 	- basic primitive ops
 - control unit
 	- program counter
-	- traverses the instructure set by incrementing the pro
+	- traverses the instructure set by incrementing the program counter
+
+### Stored program computer
+- sequence of instructions stored inside computer
+	- built from predefined set of prim
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMDI1MDI5Nyw0Njk1NjUyMCwtMzE3Nz
+eyJoaXN0b3J5IjpbMTA5NTM1NDQyMiw0Njk1NjUyMCwtMzE3Nz
 I4Njg0LDczMDk5ODExNl19
 -->
