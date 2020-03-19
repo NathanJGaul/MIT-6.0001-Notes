@@ -52,10 +52,16 @@
 
 ### Stored program computer
 - sequence of instructions stored inside computer
-	- built from predefined set of prim
+	- built from predefined set of primitive instructions
+	1. arithmetic and logic
+	2. simple test
+	3. moving data
+- special program (interpreter) executes each instruction in order
+	- use tests to change flow of control through sequence
+	- stop when done
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTM1NDQyMiw0Njk1NjUyMCwtMzE3Nz
-I4Njg0LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNjUyNDAxOTQ3LDQ2OTU2NTIwLC0zMTc3Mj
+g2ODQsNzMwOTk4MTE2XX0=
 -->
