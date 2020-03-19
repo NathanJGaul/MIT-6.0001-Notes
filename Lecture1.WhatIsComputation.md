@@ -101,15 +101,20 @@
 	- non-scalar (have internal structure that can be accessed
 
 ### Salar objects
-- int
-- float
-- bool - represents Boolean values T
+- int - whole numbers
+- float - numbers containing decimals
+- bool - represents Boolean values True and False
 - NoneType - special has one value, None
-- can use type()
+- can use type() to determine the type of an object
+
+### Type conversions (cast)
+- can convert object of one type to another
+- float(3) converts integer 3 to float 3.0
+- int(*
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3ODI2NjkyLDYzMzAxNzM2NywtMTg2Mz
-Y1NzUxNCw0Njk1NjUyMCwtMzE3NzI4Njg0LDczMDk5ODExNl19
-
+eyJoaXN0b3J5IjpbMTA5OTc3NDEwNSw2MzMwMTczNjcsLTE4Nj
+M2NTc1MTQsNDY5NTY1MjAsLTMxNzcyODY4NCw3MzA5OTgxMTZd
+fQ==
 -->
