@@ -130,15 +130,15 @@
 - \<variable> = \<value or expression>
 - reuse names instead of values
 - easier to change code later
-
     pi = 3.14
     radius = 5
     area = pi * radius ** 2
-    
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODczMzIxNzgsNjMzMDE3MzY3LC0xOD
-YzNjU3NTE0LDQ2OTU2NTIwLC0zMTc3Mjg2ODQsNzMwOTk4MTE2
-XX0=
+eyJoaXN0b3J5IjpbLTU2MTM0NTY4Miw2MzMwMTczNjcsLTE4Nj
+M2NTc1MTQsNDY5NTY1MjAsLTMxNzcyODY4NCw3MzA5OTgxMTZd
+fQ==
 -->
