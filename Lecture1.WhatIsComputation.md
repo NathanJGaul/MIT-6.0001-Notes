@@ -34,10 +34,16 @@
 2. flow of control process that specifies when each step is executed
 3. a means of determining when to stop
 
-
+## Computers are machines
+- how to capture a recipe in a mechanical process
+- fixed program computer
+	- calculator
+- stored program computer
+	- machine stores and executes instructions
+	- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MzczOTIwNCw0Njk1NjUyMCwtMzE3Nz
-I4Njg0LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTE2MDY5MDU5NDQsNDY5NTY1MjAsLTMxNz
+cyODY4NCw3MzA5OTgxMTZdfQ==
 -->
