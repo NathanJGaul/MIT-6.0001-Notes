@@ -79,10 +79,12 @@
 	- 45 * 5 -> is a valid phrase
 - static semantics is which syntactically valid string have meaning
 	- 3.2*5 -> syntactically valid
-	- 3+"hi" 
+	- 3+"hi" -> static semantic error
+- semantics is the meaning associated with a syntatically correct string of symbols with no static semantic errors
+-  
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MjMxODUxNCw0Njk1NjUyMCwtMzE3Nz
+eyJoaXN0b3J5IjpbMTU3NTE1MDk3Myw0Njk1NjUyMCwtMzE3Nz
 I4Njg0LDczMDk5ODExNl19
 -->
