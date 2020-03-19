@@ -82,10 +82,15 @@
 	- 3+"hi" -> static semantic error
 - semantics is the meaning associated with a syntactically correct string of symbols with no static semantic errors
 	- have only one meaning but may not be what programmer 
-	- 
+
+## Python programs
+- a program is a sequence of definitions and commands
+	- definitions evaluated
+	- commands executed by Python interpreter in a shell
+- co
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjM2NTc1MTQsNDY5NTY1MjAsLTMxNz
-cyODY4NCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE5NjQyODUyMTYsLTE4NjM2NTc1MTQsND
+Y5NTY1MjAsLTMxNzcyODY4NCw3MzA5OTgxMTZdfQ==
 -->
