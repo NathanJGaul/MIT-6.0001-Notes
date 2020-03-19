@@ -29,10 +29,14 @@
 	3. Otherwise make a new guess by averaging g and x/g
 	4. Using the new guess, repeat process until close enough
 
+### What is a recipe
+1. Sequence of simple steps
+2. flow of control process that specifies when each step is executed
+3. a means of determining when to stop
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NjM0MzI1MSw0Njk1NjUyMCwtMzE3Nz
+eyJoaXN0b3J5IjpbMjA5MjQzOTk1OCw0Njk1NjUyMCwtMzE3Nz
 I4Njg0LDczMDk5ODExNl19
 -->
