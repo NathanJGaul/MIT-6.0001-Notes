@@ -41,10 +41,17 @@
 - stored program computer
 	- machine stores and executes instructions
 
-### Basic machine ar
+### Basic machine architecture
+- memory
+	- stores data
+- arithmetic logic unit (alu)
+	- basic primitive ops
+- control unit
+	- program counter
+	- traverses the instructure set by incrementing the pro
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3Mzk4ODQwLDQ2OTU2NTIwLC0zMTc3Mj
-g2ODQsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMjEyMDI1MDI5Nyw0Njk1NjUyMCwtMzE3Nz
+I4Njg0LDczMDk5ODExNl19
 -->
